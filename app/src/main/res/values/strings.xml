@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="next">Next</string>
+    <string name="colores">Colores</string>
+    <string name="frutas">Frutas</string>
+    <string name="verde">Verde</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="rojo">Rojo</string>
+    <string name="textview">Textview</string>
+    <string name="contactenos">Contactenos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="correo">Correo:</string>
+    <string name="edad">Edad:</string>
+</resources>
